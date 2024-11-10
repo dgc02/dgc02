@@ -1,4 +1,4 @@
-### Hi, I'm Deepa! 👋🏻<br><br>
+### <p align="center">Hi, I'm Deepa 👋🏻</p><br>
 <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="150px">👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br> 👩🏻‍🎓 Studied Computer Science at the Gl Bajaj Group of Insitute of Mathura, India.<br>🎨 Love to write , eager to learn new hobbies.<br>💭 Currently learning about AWS.<br>
 
 
